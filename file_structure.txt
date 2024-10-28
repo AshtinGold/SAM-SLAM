@@ -1,0 +1,97 @@
+.
+├── assets
+│   ├── 1.gif
+│   ├── 4.gif
+│   ├── collage.gif
+│   └── image.png
+├── bash_scripts
+│   ├── download_replica.sh
+│   ├── download_replicav2.sh
+│   ├── download_tum.sh
+│   ├── nerfcapture2dataset.bash
+│   ├── nerfcapture.bash
+│   ├── online_demo.bash
+│   └── start_docker.bash
+├── configs
+│   ├── data
+│   ├── _init_.py
+│   ├── iphone
+│   ├── replica
+│   ├── replica_v2
+│   ├── scannet
+│   ├── scannetpp
+│   └── tum
+├── datasets
+│   ├── gradslam_datasets
+│   └── _init_.py
+├── diff-gaussian-rasterization-w-depth.git
+│   ├── CMakeLists.txt
+│   ├── cuda_rasterizer
+│   ├── diff_gaussian_rasterization
+│   ├── ext.cpp
+│   ├── .git
+│   ├── .gitignore
+│   ├── .gitmodules
+│   ├── LICENSE.md
+│   ├── rasterize_points.cu
+│   ├── rasterize_points.h
+│   ├── README.md
+│   ├── setup.py
+│   └── third_party
+├── environment.yml
+├── experiments
+│   └── TUM
+├── file_structure.txt
+├── .git
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   ├── index
+│   ├── info
+│   ├── logs
+│   ├── modules
+│   ├── objects
+│   ├── packed-refs
+│   └── refs
+├── .gitignore
+├── .gitmodules
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── scripts
+│   ├── _checkpoints
+│   ├── dgs_sam.py
+│   ├── dgs_use_sam.ipynb
+│   ├── eval_novel_view.py
+│   ├── gaussian_splatting.py
+│   ├── _init_.py
+│   ├── iphone_demo.py
+│   ├── mask-rcnn.ipynb
+│   ├── nerfcapture2dataset.py
+│   ├── output.log
+│   ├── post_splatam_opt.py
+│   ├── predictor_example.ipynb
+│   ├── sam_vit_h_4b8939.pth
+│   └── splatam.py
+├── utils
+│   ├── common_utils.py
+│   ├── dgs_pathloader.py
+│   ├── eval_helpers.py
+│   ├── graphics_utils.py
+│   ├── gs_external.py
+│   ├── gs_helpers.py
+│   ├── _init_.py
+│   ├── keyframe_selection.py
+│   ├── neighbor_search.py
+│   ├── __pycache__
+│   ├── recon_helpers.py
+│   ├── slam_external.py
+│   └── slam_helpers.py
+├── venv_requirements.txt
+└── viz_scripts
+    ├── final_recon.py
+    └── online_recon.py
+
+31 directories, 63 files

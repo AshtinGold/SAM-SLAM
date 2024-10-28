@@ -1,0 +1,7 @@
+# ninja log v5
+0	4233	1719901399255674240	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/PROTO-open-vocab-SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	c221bb77d2eb790c
+0	5539	1719901400559686837	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/PROTO-open-vocab-SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	4e07fa752c373d88
+0	18558	1719901413579812308	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/PROTO-open-vocab-SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	a273691f82de2495
+0	4333	1721226596979141451	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/OFFLINE-samslam/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	d8582467b4fb8022
+0	6351	1721226598999153252	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/OFFLINE-samslam/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	f17b78e528bf5852
+0	20772	1721226613415238062	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/OFFLINE-samslam/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	fa9b0d33fb1b43ff

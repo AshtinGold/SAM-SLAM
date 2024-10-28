@@ -1,0 +1,10 @@
+nohup: ignoring input
+PyTorch version: 1.12.1
+Torchvision version: 0.13.1
+CUDA is available: True
+Number of files to convert:  2000
+Generating maps
+  0%|          | 0/2000 [00:00<?, ?it/s]  0%|          | 1/2000 [01:26<47:54:29, 86.28s/it]  0%|          | 1/2000 [02:44<91:15:00, 164.33s/it]
+Semantic image generation completed!
+-------------------------------------
+Execution time: 164.33453106880188 seconds
